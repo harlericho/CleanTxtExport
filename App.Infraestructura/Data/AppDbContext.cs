@@ -1,4 +1,4 @@
-﻿using App.Dominio.Entities;
+﻿using App.Dominio;
 //using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

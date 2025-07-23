@@ -1,5 +1,5 @@
 ﻿using App.Applicacion.Interfaces;
-using App.Dominio.Entities;
+using App.Dominio;
 using Dapper;
 using Npgsql;
 using System;

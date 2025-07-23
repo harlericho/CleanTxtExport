@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\App.Applicacion\App.Applicacion.csproj" />
     <ProjectReference Include="..\App.Infraestructura\App.Infraestructura.csproj" />
   </ItemGroup>
 </Project>
